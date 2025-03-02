@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "2bbac2b269c36bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ad4e46d55087ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882814fd8fcdeb33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter78/Verses/Verses_17-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verses_17-30"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe778a748c609875",
+    "type": "split",
+    "children": [
+      {
+        "id": "07455ebd3711180e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e28559f1cf2c3fed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a7aededc5357f98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "620d1d34d764318d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "b70264781d9215f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9da23280d01d6fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06faa0a5c269f448",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1725cc463cc3e4d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "16230745fb6f14b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "baa15fc26ecd3188",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "882814fd8fcdeb33",
+  "lastOpenFiles": [
+    "Chapters/Chapter103/Verses/Complete_Surah_Analysis.md",
+    "Chapters/Chapter103/Verses/Verses_2-3.md",
+    "Chapters/Chapter96/Verses/Verses_6-19.md",
+    "Thematic_Study_Overview.md",
+    "Chapters/Chapter78/Verses/Verses_17-30.md",
+    "Chapters/Chapter36/Verses/Verses_1-12.md",
+    "Chapters/Chapter67/Verses/Verses_6-30.md",
+    "Chapters/Chapter103/Verses/Complete_Analysis.md",
+    "Chapters/Chapter56/Verses/Verses_7-56.md",
+    "Chapters/Chapter103/Overview.md",
+    "Chapters/Chapter78/Themes/Divine_Power_in_Creation.md",
+    "Chapters/Chapter78/Verses/Verses_1-5.md",
+    "Chapters/Chapter96/Reflections/Knowledge_Application.md",
+    "Chapters/Chapter67/Verses/Verses_1-5.md",
+    "Chapters/Chapter103/Themes/Success_Formula.md",
+    "Chapters/Chapter78/Themes/Day_of_Judgment.md",
+    "Chapters/Chapter103/Reflections/Practical_Applications.md",
+    "Chapters/Chapter67/Themes/Protection_Security.md",
+    "Chapters/Chapter36/Themes/Resurrection_Afterlife.md",
+    "Chapters/Chapter96/Verses/Verses_1-5.md",
+    "Chapters/Chapter103/Themes/Time_Human_Purpose.md",
+    "Chapters/Chapter96/Themes/Arrogance_Transgression.md",
+    "Chapters/Chapter36/Reflections/Personal_Reflections.md",
+    "Chapters/Chapter78/Verses/Verses_1-16.md",
+    "Chapters/Chapter96/Themes/Knowledge_Education.md",
+    "Chapters/Chapter67/Themes/Divine_Sovereignty.md",
+    "Chapters/Chapter56/Verses",
+    "Chapters/Chapter56/Themes",
+    "Chapters/Chapter56/Reflections",
+    "Chapters/Chapter56",
+    "Chapters/Chapter103/Verses",
+    "Chapters/Chapter103/Themes",
+    "Chapters/Chapter103/Reflections",
+    "Chapters/Chapter103",
+    "Chapters/Chapter96/Verses",
+    "Chapters/Chapter96/Themes"
+  ]
+}
